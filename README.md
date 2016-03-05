@@ -19,7 +19,7 @@ Nasze projekty:
 1. MJ Andrzejewski
 2. [Ewa Barczak](https://github.com/ewagrzywka)
 1. AA Bemke
-1. K Idziak
+1. [K Idziak] (https://github.com/idzionek)
 1. D Lachowicz
 1. MA Lewandowski
 1. SL Majewska
