@@ -19,7 +19,7 @@ Nasze projekty:
 1. [Marek Andrzejewski](https://github.com/marekug).
 1. [Ewa Barczak](https://github.com/ewagrzywka), [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
 1. [Aleksandra Bemke](https://github.com/abemke).
-1. [Kasia Idziak](https://github.com/idzionek).
+1. [Kasia Idziak](https://github.com/idzionek).[Azja](http://idzionek.github.io/Moja-Azja/)
 1. [D Lachowicz](https://github.com/Alphacentauri01).
 1. [Michał Lewandowski](https://github.com/lewand16).
 1. SL Majewska
